@@ -21,7 +21,7 @@ I build modern, high-performance web applications using the **VILT stack** (Vue,
 * Crafting accessible and reusable UI components with **shadcn/ui**.
 * Implementing type-safe frontends with **TypeScript**.
 
-### 📫 Let's Connect!
+<!--### 📫 Let's Connect!
 * **LinkedIn:** [Your Profile Link]
 * **Portfolio:** [Your Website Link]
 * **Email:** [Your Email Address]
@@ -30,4 +30,4 @@ I build modern, high-performance web applications using the **VILT stack** (Vue,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
