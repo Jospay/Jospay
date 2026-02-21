@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Joshua Payumo 👋
 
 ### 🚀 Full-Stack Developer | Laravel & Vue.js Specialist
 
