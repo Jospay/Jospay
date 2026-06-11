@@ -18,7 +18,7 @@ I build modern, high-performance web and mobile applications. My expertise lies 
 ---
 
 ### 🔭 Currently Working On
-* 📱 Developing cross-platform mobile apps using **Expo** and structuring clean layouts with **NativeWind v4+**.
-* 🧠 Managing lightweight, predictable global state using **Zustand**.
-* 🌐 Building reactive web SPAs using **Inertia.js** to bridge the gap between Laravel and Vue.
-* 🛡️ Crafting type-safe, robust codebases across web and mobile using **TypeScript**.
+* Developing cross-platform mobile apps using **Expo** and structuring clean layouts with **NativeWind v4+**.
+* Managing lightweight, predictable global state using **Zustand**.
+* Building reactive web SPAs using **Inertia.js** to bridge the gap between Laravel and Vue.
+* Crafting type-safe, robust codebases across web and mobile using **TypeScript**.
