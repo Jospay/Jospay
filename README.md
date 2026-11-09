@@ -114,57 +114,79 @@ I'm passionate about clean architecture, maintainable code, performance optimiza
 
 ## 💼 Development Experience & Projects
 
-I work on full-stack systems that combine web applications, mobile applications, APIs, and database-driven business processes.
+I develop complete software solutions across web and mobile platforms, handling both frontend and backend development. My experience includes building business applications, content management systems, e-commerce platforms, RESTful APIs, and integrated mobile applications.
 
-### 1. Cooperative Management & Financial Platform
+### 1. Full-Stack Web Application Development
 
-**Technologies:** Laravel, Vue 3, Inertia.js, MySQL, React Native, Expo, TypeScript
+**Technologies:** Laravel, Vue 3, Inertia.js, PHP, MySQL, TypeScript, Tailwind CSS
 
-Development of a cooperative platform designed to support member services and financial transactions.
-
-Key development areas:
-
-- Member registration and account verification.
-- Digital wallet and balance management.
-- Online wallet loading and payment integrations.
-- Bank transfers and transaction processing.
-- Membership payment and activation workflows.
-- Real-time wallet updates and notifications.
-- Cross-platform mobile application development.
-
-### 2. Cooperative Commerce & E-Commerce Platform
-
-**Technologies:** Laravel, Vue 3, Inertia.js, MySQL, React Native, Expo, NativeWind
-
-Development of a multi-cooperative commerce platform supporting local and nationwide marketplace operations.
+Building modern, scalable, and responsive web applications with integrated backend functionality.
 
 Key development areas:
 
-- Multi-cooperative architecture and data isolation.
-- National and local product marketplaces.
-- Product variations, inventory, and pricing.
-- Shopping cart and checkout workflows.
-- Multiple payment methods and payment processing.
-- Cooperative, seller, and platform revenue distribution.
-- Membership discounts and loyalty points.
-- Order management and delivery workflows.
-- Driver management and delivery assignment.
+- Full-stack application architecture and development.
+- Admin dashboards and business management systems.
+- Dynamic content management systems (CMS).
+- Landing pages and website management.
+- User management, authentication, and authorization.
+- Database design and backend business logic.
+- RESTful API development and third-party integrations.
+- Responsive interfaces and reusable components.
+- Real-time updates and application notifications.
 
-### 3. Cross-Platform Mobile Applications
+### 2. E-Commerce & Business Management Systems
+
+**Technologies:** Laravel, Vue 3, Inertia.js, MySQL, TypeScript, Tailwind CSS
+
+Developing feature-rich e-commerce platforms and business management solutions with integrated web services and backend workflows.
+
+Key development areas:
+
+- Product catalogs, categories, and inventory management.
+- Product variations, pricing, and discounts.
+- Shopping cart and checkout functionality.
+- Payment gateway integration and transaction processing.
+- Order management and tracking.
+- Revenue calculations and payment breakdowns.
+- Administrative dashboards and management interfaces.
+- Business process automation.
+- Backend validation and transaction security.
+
+### 3. API & Backend System Development
+
+**Technologies:** Laravel, PHP, MySQL, Laravel Echo, Pusher
+
+Designing and developing backend services that power web applications, mobile applications, and external integrations.
+
+Key development areas:
+
+- RESTful API architecture and development.
+- API authentication and authorization.
+- Database relationships and query optimization.
+- API resources, requests, controllers, and service classes.
+- Payment processing and webhook handling.
+- Data validation and error handling.
+- Real-time event broadcasting.
+- Secure and reliable data communication.
+- Integration between frontend applications and backend services.
+
+### 4. Cross-Platform Mobile Application Development
 
 **Technologies:** React Native, Expo, TypeScript, NativeWind, Zustand, TanStack Query
 
-Building mobile applications integrated with Laravel-powered backend services.
+Building modern mobile applications for Android and iOS with integrated backend APIs and native device capabilities.
 
 Key development areas:
 
-- File-based navigation using Expo Router.
-- Secure authentication and session management.
+- Cross-platform mobile application development.
+- Expo Router and file-based navigation.
+- Authentication and secure session management.
 - API integration and server-state management.
-- Responsive mobile interfaces.
+- Responsive mobile interfaces and reusable components.
 - QR code scanning and payment-related functionality.
 - Image selection, cropping, and processing.
 - Real-time notifications and communication.
+- Native device features and integrations.
 - Android application builds and deployment.
 
 ---
@@ -206,7 +228,7 @@ I focus on building applications that are not only functional but also maintaina
 | Programming Languages | PHP, TypeScript, JavaScript |
 | Styling | Tailwind CSS 4, NativeWind v4 |
 | UI Components | Reka UI, shadcn/ui-inspired components |
-| Web State Management | Vue Reactivity, TanStack Vue Query |
+| Web State Management | Vue Reactivity, TanStack Vue Table |
 | Mobile State Management | Zustand, TanStack React Query |
 | Real-Time | Laravel Echo, Pusher |
 | Build Tools | Vite, EAS |
@@ -219,4 +241,3 @@ I focus on building applications that are not only functional but also maintaina
 I'm always interested in learning new technologies, collaborating on software projects, and building solutions that make a difference.
 
 **Thanks for visiting my GitHub profile!** 🚀
-
